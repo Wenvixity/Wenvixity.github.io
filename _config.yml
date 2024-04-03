@@ -1,5 +1,5 @@
 title: Test
-#logo: 
-#description: 
-remote_theme: jekyll-theme-chirpy
-plugins: jekyll-theme-chirpy
+#logo: /assets/img/headshot_circle.png
+#description: text below image
+#show_downloads: False
+theme: jekyll-theme-chirpy
