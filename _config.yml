@@ -1,0 +1,5 @@
+title: Test
+#logo: 
+#description: 
+remote_theme: jekyll-theme-chirpy
+plugins: jekyll-theme-chirpy
